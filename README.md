@@ -1,6 +1,6 @@
 ### GraphQL
 
-Also hosted on this link:
+Also hosted here: `https://sten9911.github.io/graphql/`
 
 Or if you want to run this project locally, use:
 `npm i`
